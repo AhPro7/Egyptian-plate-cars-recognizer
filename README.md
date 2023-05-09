@@ -34,7 +34,7 @@ I hereby grant permission to anyone who reads this license section to do whateve
 - Using it to build a car that drives itself.
 - Using it to create a robot that can do my laundry.
 - Using it to write a song that will get me famous.
-- Gave me 100$ <br>
+- Give me 100$ <br>
 ### You have read and accepted the license agreement, and I would like to request my money now.
 The only thing I ask is that you give me credit if you use my code for anything cool.
 
