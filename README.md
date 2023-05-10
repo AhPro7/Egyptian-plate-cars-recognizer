@@ -45,7 +45,7 @@ Ahmed Haytham
 <br>
 
 # Test case
-## The images
+## The images ==> the image "0_0_0.jpg" ==> "(number of plate)_(number of char in plate)_(class index).jpg"
 ![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/120dcf82-5472-41d6-af3f-cf23ba81c7e6)
 ## Cars
 ![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/ae7e3e94-9791-4477-849b-765f2a1cf145)
