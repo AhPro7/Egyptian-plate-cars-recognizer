@@ -14,7 +14,7 @@ This project is a car license plate recognizer specifically designed for the Egy
 1. Clone the repository to your local machine:
 git clone https://github.com/AhPro7/Egyptian-plate-cars-recognizer.git
 
-2. Install the required dependencies: Pytorch, OpenCV, Matplotlib, Numpy, and Ultralytics
+2. Install the required dependencies: **Pytorch -optional**, OpenCV, Matplotlib, Numpy, and Ultralytics
 
 ## Usage
 
