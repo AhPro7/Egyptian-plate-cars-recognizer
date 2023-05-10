@@ -40,6 +40,29 @@ The only thing I ask is that you give me credit if you use my code for anything 
 
 Thanks,<br>
 Ahmed Haytham
+<br>
+---
+<br>
+
+# Test case
+## The images
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/120dcf82-5472-41d6-af3f-cf23ba81c7e6)
+## Cars
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/ae7e3e94-9791-4477-849b-765f2a1cf145)
+## Splitted cars
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/5f0e9c1f-cf91-4e66-a1de-c63e3a31d9e5)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/1867581f-36a7-4b8e-92af-9384decabdf9)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/15cba504-96ed-493f-a242-8fefebe2b819)
+
+## Plates
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/bfea6417-d630-4314-932e-ed5ce2bb6369)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/cf767c3a-6895-4126-b20e-59cec4eeaa0d)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/95eb1482-e165-4339-b6ef-49663c874a7f)
+## Chars and Numbers in plate
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/6b37958a-0d64-4b08-b6f8-2e13505fda09)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/209707a4-7f30-4a06-b1ae-352c59c39a79)
+# Final results
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/e64392b2-57ce-4423-91b6-3abc267f97b4)
 
 
 
