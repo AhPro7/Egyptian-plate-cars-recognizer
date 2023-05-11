@@ -44,6 +44,9 @@ Ahmed Haytham
 ---
 <br>
 
+# The pipeline
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/3213f295-79a2-4ae3-a6a7-e5a277085efa)
+
 # Test case
 ## The images ==> the image "0_0_0.jpg" ==> "(number of plate)_(number of char in plate)_(class index).jpg"
 ![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/120dcf82-5472-41d6-af3f-cf23ba81c7e6)
