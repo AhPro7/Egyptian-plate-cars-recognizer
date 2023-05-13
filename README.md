@@ -45,28 +45,26 @@ Ahmed Haytham
 <br>
 
 # The pipeline
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/3213f295-79a2-4ae3-a6a7-e5a277085efa)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/5d3ab56e-3782-4f54-a9ec-fde6d9aa37b2)
 
 # Test case
 ## The images ==> the image "0_0_0.jpg" ==> "(number of plate)_(number of char in plate)_(class index).jpg"
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/120dcf82-5472-41d6-af3f-cf23ba81c7e6)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/658269a9-8312-44c8-b26c-3f3882ea3773)
 ## Cars
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/ae7e3e94-9791-4477-849b-765f2a1cf145)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/4557166a-e0b9-411f-ad8c-401dc25a4be6)
 ## Splitted cars
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/5f0e9c1f-cf91-4e66-a1de-c63e3a31d9e5)
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/1867581f-36a7-4b8e-92af-9384decabdf9)
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/15cba504-96ed-493f-a242-8fefebe2b819)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/6f97cf69-6adb-4c14-86df-d27cd5ccccc6)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/328592d0-8ebe-400c-a91f-58edf035373a)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/8a941c1f-4170-4cbb-9243-1481f7cdee54)
 
 ## Plates
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/bfea6417-d630-4314-932e-ed5ce2bb6369)
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/cf767c3a-6895-4126-b20e-59cec4eeaa0d)
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/95eb1482-e165-4339-b6ef-49663c874a7f)
-## Chars and Numbers in plate
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/6b37958a-0d64-4b08-b6f8-2e13505fda09)
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/209707a4-7f30-4a06-b1ae-352c59c39a79)
-# Final results
-![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/e64392b2-57ce-4423-91b6-3abc267f97b4)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/f24e0b05-4fad-468a-a5b1-41111fd7dbb4)
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/fc367f2b-3bd0-4bde-aabc-beb54a62b3c8)
 
+## Chars and Numbers in plate
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/dad6a0b1-9814-4208-887b-6d8a2bd87bb7)
+# Final results
+![image](https://github.com/AhPro7/Egyptian-plate-cars-recognizer/assets/39713678/1f2a9dc3-5f7c-45c5-a6b4-326294f52f71)
 
 
 
